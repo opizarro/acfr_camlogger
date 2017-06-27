@@ -1,0 +1,2 @@
+#File path to store the images to must be from user directory "~/"
+image_labeller/storage_path: '~/camera_images'
